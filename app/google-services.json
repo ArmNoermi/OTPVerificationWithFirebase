@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "313373832447",
+    "project_id": "otp-verification-39a12",
+    "storage_bucket": "otp-verification-39a12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313373832447:android:d02823e717a0f27cd248ca",
+        "android_client_info": {
+          "package_name": "com.arm.otpverificationusingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313373832447-di6dl6tpp2c2oe9i3fd5kp3ert9d0pcj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arm.otpverificationusingfirebase",
+            "certificate_hash": "2b309cc39bf2156bd55643a36d0b07c433ed5c05"
+          }
+        },
+        {
+          "client_id": "313373832447-giqte65dgkle74vu77tnsehhjn5q8lo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgGOHxWfw0FjjPe6qFzzwb8_dZ2mW6TKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313373832447-giqte65dgkle74vu77tnsehhjn5q8lo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OTPVerificationUsingFirebase</string>
+    <string name="otp_verification">OTP Verifikasi</string>
+    <string name="ketKirimKode">Kode akan dikirim melalui nomor Handphone. Pastikan nomor Handphone sudah tepat</string>
+    <string name="masukkan_nomor_hp">Masukkan Nomor HP</string>
+    <string name="masukkan_kode_otp">Masukkan kode OTP</string>
+    <string name="tidak_menerima_otp">Tidak menerima OTP?</string>
+    <string name="resend_otp">RESEND OTP</string>
+</resources>
